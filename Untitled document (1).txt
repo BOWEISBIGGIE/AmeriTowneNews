@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>AmeriTowne News</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+<header>
+ <h1>AmeriTowne Daily News</h1>
+ <p>Run by the Digital Media Manager</p>
+</header>
+
+
+<div class="news">
+ <h2>Town Opening!</h2>
+ <p>Today AmeriTowne officially opened. Businesses are starting and citizens are getting paid!</p>
+</div>
+
+
+<div class="news">
+ <h2>Interview</h2>
+ <p>"My job is going great!" says the bank teller.</p>
+</div>
+
+
+<div class="news">
+ <h2>Breaking News</h2>
+ <p>The pizza shop sold out of pizza in only 30 minutes!</p>
+ <button onclick="breakingNews()">Click for Alert</button>
+</div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
